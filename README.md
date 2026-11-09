@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **このリポジトリは移転しました（2026-11-09）。**
+> 今後の編集は [Dev1-Automotive / NSA40/Doc/特許](https://github.com/Bishamon-G-Works/Dev1-Automotive/tree/main/NSA40/Doc/特許) で行ってください。ここは移転時点（コミット `e6cb3d3`）の記録として残しており、PDF の原本もここにあります。
+
 # 車両整備用リフト：特許出願検討プロジェクト
 
 ## 概要
